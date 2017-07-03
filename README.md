@@ -8,5 +8,5 @@ Table of contents in mark down files is syntax-complicated. This code will auto-
 Edit the md file for your need and run it as is.
 
 ```
-python -m mardown_toc --file [your file path]
+python -m markdown_toc --file [your file path]
 ```
