@@ -1,3 +1,7 @@
+* **[Goal](#goal)**
+* **[Syntax](#syntax)**
+* **[Operate](#operate)**
+
 # Goal
 
 Table of contents in mark down files is syntax-complicated. This code will auto-generate it for you. so all left to do is copy-paste.
